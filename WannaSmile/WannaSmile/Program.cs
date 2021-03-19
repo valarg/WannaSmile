@@ -25,7 +25,7 @@ namespace WannaSmile
 		public const string sender_Password = "###### your sender mail password  #######";
 		
         public const string szExtension = ".wannasmile";
-		public const string smtp_port = 587; //smtp port of the mailing server
+		public const int smtp_port = 587; //smtp port of the mailing server
 		public const string smtp_server = "###### your server  #######";
 		
         private const long iFileLen = 20000000;
