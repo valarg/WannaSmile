@@ -21,12 +21,12 @@ namespace WannaSmile
         public const string szTargetMail = "###### your target email  #######"; // Target mail can be the same as sender_Mail if you dont want to use two mail accounts
 		
 		//Mail credentials of Mailing Server
-		public const string sender_Mail = "###### your sender mail  #######";
-		public const string sender_Password = "###### your sender mail password  #######";
+	public const string sender_Mail = "###### your sender mail  #######";
+	public const string sender_Password = "###### your sender mail password  #######";
 		
         public const string szExtension = ".wannasmile";
-		public const int smtp_port = 587; //smtp port of the mailing server
-		public const string smtp_server = "###### your server  #######";
+	public const int smtp_port = 587; //smtp port of the mailing server
+	public const string smtp_server = "###### your server  #######";
 		
         private const long iFileLen = 20000000;
 
