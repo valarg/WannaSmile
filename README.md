@@ -10,7 +10,7 @@ In case you somehow lost decryption password, you can find it in the following f
 # Description
   This is a proof of concept ransomware malware that runs like a trojan and encrypts current user's files.
 It doesn't need any privileged rights and it's undetected by some antivirus software. (Tested with Windows Defender).
-The file was not uploaded on multi-engine scanning web services to maintain it's ud as proof.
+The file was not uploaded on multi-engine scanning web services to maintain it's ud status as a proof.
 
 ![image](https://user-images.githubusercontent.com/25134231/111777743-5965b900-88bc-11eb-8b95-0533b842f091.png)
 
